@@ -6,14 +6,13 @@
         "icon": "https://avatars.githubusercontent.com/u/125085053?v=4",
         "url": "https://github.com/Iramos16"
     },
-    "version": "1.1.1",
+    "version": "1.1.2",
     "language": "English", 
     "streamType": "HLS",
     "quality": "1080p",
     "baseUrl": "https://animekai.to",
     "searchBaseUrl": "https://animekai.to/browser?keyword=%s",
     "scriptUrl": "https://raw.githubusercontent.com/Iramos16/SoraMod/refs/heads/main/AnimeKai.js",
-    "type": "anime",
     "asyncJS": true,
-    "softsub": false
+    "type": "anime"
 }
