@@ -1,6 +1,6 @@
 {
     "sourceName": "AnimeKai",
-    "iconUrl": "https://animekai.to/assets/uploads/37585a39fe8c8d8fafaa2c7bfbf5374ecac859ea6a0288a6da2c61f5.png",
+    "iconUrl": "https://raw.githubusercontent.com/50n50/sources/refs/heads/main/animekai/iconalt.png",
     "author": {
         "name": "iramos",
         "icon": "https://avatars.githubusercontent.com/u/125085053?v=4",
@@ -11,9 +11,9 @@
     "streamType": "HLS",
     "quality": "1080p",
     "baseUrl": "https://animekai.to",
-    "searchBaseUrl": "https://animekai.to/search?q=%s",
+    "searchBaseUrl": "https://animekai.to/browser?keyword=%s",
     "scriptUrl": "https://raw.githubusercontent.com/Iramos16/SoraMod/refs/heads/main/AnimeKai.js",
-    "type": "shows/movies",
+    "type": "anime",
     "asyncJS": true,
     "softsub": false
 }
