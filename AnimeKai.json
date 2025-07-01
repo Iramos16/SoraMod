@@ -12,7 +12,7 @@
     "quality": "1080p",
     "baseUrl": "https://animekai.to",
     "searchBaseUrl": "https://animekai.to/browser?keyword=%s",
-    "scriptUrl": "[YOUR_UPDATED_SCRIPT_URL]",
+    "scriptUrl": "https://raw.githubusercontent.com/Iramos16/SoraMod/refs/heads/main/AnimeKai.js",
     "asyncJS": true,
     "streamAsyncJS": true,
     "type": "anime"
